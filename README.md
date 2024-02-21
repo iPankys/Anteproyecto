@@ -15,6 +15,8 @@ La web [tucerticado.co](https://tucertificado.co/) esta basada en el proyecto ti
 > Beta 5: Dia de la Mujer en Ingenieria -> (20 certificados)
 
 # Documentos de Anteproyecto 👩‍💻
+* Formato de anteproyecto -> [Documento de anteproyecto](https://github.com/jlianacastillo/Anteproyecto/files/14362631/FORMATO.ANTEPROYECTO.DE.GRADO.docx)
 * Descarga del documento -> [Documento presentado en III Ciclo](https://github.com/jlianacastillo/Anteproyecto/files/14362425/C3_Desarrollo.de.una.plataforma.para.la.emision.de.certificados.de.los.eventos.a.realizarse.en.el.programa.de.Ingenieria.de.Sistemas.de.la.Universidad.de.Cundinamarca.Seccional.Ubate.pdf)
+* Descarga de diapositivas -> [Diapositivas de proyecto presentado en III Ciclo](https://github.com/jlianacastillo/Anteproyecto/files/14362655/C3_Desarrollo.de.una.plataforma.para.la.emision.de.certificados.de.los.eventos.a.realizarse.en.el.programa.de.Ingenieria.de.Sistemas.de.la.Universidad.de.Cundinamarca.Seccional.Ubate.pptx)
 
 
