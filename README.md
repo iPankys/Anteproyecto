@@ -1,6 +1,6 @@
 # Anteproyecto "tucerficado.co" 👩🏼‍🎓
 
-La web [tucerticado.co](tucertificado.co) esta basada en el proyecto titulado "Desarrollo de una plataforma para la emision de certificados de los eventos a realizarse en el programa de ingenieria de sistemas de la universidad de cundinamarca - seccional ubate" que fue presentado durante <strong>IIPA 2023 para III Ciclo</strong> del programa de Ingenieria de Sistemas <br>
+La web [tucerticado.co](https://tucertificado.co/) esta basada en el proyecto titulado "Desarrollo de una plataforma para la emision de certificados de los eventos a realizarse en el programa de ingenieria de sistemas de la universidad de cundinamarca - seccional ubate" que fue presentado durante <strong>IIPA 2023 para III Ciclo</strong> del programa de Ingenieria de Sistemas <br>
 
 * Proyecto de Gestion del Conocimiento Presentado en Ciclo III "Tu Certificado.co"
 * Ingenieria de Sistemas - Universidad de Cundinamarca
@@ -15,5 +15,6 @@ La web [tucerticado.co](tucertificado.co) esta basada en el proyecto titulado "D
 > Beta 5: Dia de la Mujer en Ingenieria -> (20 certificados)
 
 # Documentos de Anteproyecto 👩‍💻
+* Descarga del documento -> [Documento presentado en III Ciclo](https://github.com/jlianacastillo/Anteproyecto/files/14362425/C3_Desarrollo.de.una.plataforma.para.la.emision.de.certificados.de.los.eventos.a.realizarse.en.el.programa.de.Ingenieria.de.Sistemas.de.la.Universidad.de.Cundinamarca.Seccional.Ubate.pdf)
 
 
